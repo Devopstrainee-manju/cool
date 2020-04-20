@@ -1,0 +1,18 @@
+s is the first file
+wq
+:wq
+:wq!
+
+  
+
+
+
+
+
+
+
+
+:WQ!
+ZZ
+
+
